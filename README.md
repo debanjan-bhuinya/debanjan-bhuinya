@@ -27,3 +27,5 @@ If you are looking for me, I'm probably optimizing an algorithm or debugging a d
 
 * I write C++ for the logic, but I use Docker for the sanity.
 * **Hobbies:** Gaming, LeetCode, and breaking (then fixing) my Linux setup.
+
+### Day 0: Setup Complete ✅
