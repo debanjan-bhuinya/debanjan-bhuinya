@@ -20,7 +20,7 @@ If you are looking for me, I'm probably optimizing an algorithm or debugging a d
 - 🤔 I’m looking for help with **optimizing complex C++ data structures**.
 - 💬 Ask me about **C++, Docker, and Kubernetes**.
 - 📫 How to reach me: **[LinkedIn Profile](https://www.linkedin.com/in/debanjanbhuinya/)**
-                      **[Gmail](debanjanbhuinya4521@gmail.com)**
+                      **[Gmail-debanjanbhuinya4521@gmail.com]**
 - 😄 Pronouns: **[He/Him]**
 
 **Fun Facts:**
